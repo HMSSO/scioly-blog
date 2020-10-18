@@ -50,19 +50,6 @@ url: https://scioly-blog.netlify.app
 baseurl: ""
 
 
-prose:
-siteurl: "https://scioly-blog.netlify.app"
-media: "/images"
-metadata:
-  _posts:
-    - name: "title"
-      field:
-        element: "text"
-        label: "title"
-      - name: "layout"
-  field:
-    element: "hidden"
-    value: "post"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
