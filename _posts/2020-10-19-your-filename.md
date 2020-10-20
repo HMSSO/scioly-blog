@@ -5,7 +5,7 @@ title: Made With...
 ---
 ## Tools I used to make these webpages
 ---
-### To see the open source code that I used, including visit 
+### To see the open source code that I used, including water.css visit 
 <https://github.com/luke2m/SciOly/LICENSE>
 ---
 - [Linux](https://computefreely.org)
@@ -14,4 +14,6 @@ title: Made With...
 - [Vim](https://vim.com)
 - [Github](https://github.com)
 - [Netlify](https://netlify.com)
-- <https://prose.io>
+- [Prose](https://prose.io)
+- [Jekyll](https://jekyllrb.com)(Blog only)
+
