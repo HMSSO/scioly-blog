@@ -49,7 +49,49 @@ url: https://scioly-blog.netlify.app
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+prose:
+  rooturl: '_posts"
+  siteurl: 'https://scioly-blog.netlify.app/'
+  media: 'images'
+  
+  metadata:
+  _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Title"
+        value: ""
+    - name: "photo_url"
+      field:
+        element: "text"
+        label: "450x450 Picture Thumb for index"
+        value: ""
+    - name: "published"
+      field:
+        element: "checkbox"
+        label: "Published"
+        value: false
+      - name: "category"
+      field:
+        element: "select"
+        label: "Select Category"
+        placeholder: "Choose Category"
+        options:
+          - name: "News"
+            value: "news"
+          - name: "Notice"
+            value: "notice"
+          - name: "Reminders"
+            value: "reminders"
+          - name: "Off-topic"
+            value: "offtopic"
 
+        
+  
 #
 # !! You don't need to change any of the configuration flags below !!
 #
