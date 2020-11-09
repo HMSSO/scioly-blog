@@ -1,0 +1,9 @@
+---
+published: false
+title: Nov. 9 meeting
+layout: post
+author: luke
+---
+There are SciOly practices tonight, November 9th!
+Find your Zoom links below.
+<https://docs.google.com/spreadsheets/d/191SPkcuy8ud8NpU0IOvyQ3CmI0iR_lggVtAibg-qaYY/edit?usp=sharing>
