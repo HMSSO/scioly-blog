@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Nov. 9 meeting
 layout: post
 author: luke
