@@ -45,7 +45,7 @@ url: https://scioly-blog.netlify.app
 
 #CMS
 github:
-  repo: luke2m/scioly-blog
+  repo: HMSSO/scioly-blog
   branch: main
 
 # If you're hosting your site at a Project repository on GitHub pages
