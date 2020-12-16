@@ -1,3 +1,10 @@
+### Content
+---
+Copyright (c) 2020 Luke Metoki
+All rights reserved
+
+### Template
+---
 The MIT License (MIT)
 
 Copyright (c) 2015 Barry Clark
